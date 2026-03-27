@@ -6,7 +6,9 @@ test
 2. feature 2
 ## Tech Stack 
 ### Frontend 
+angular
 ### Backend 
+python
 ## Architecture 
 ## Contributors 
 ## Academic Context 
